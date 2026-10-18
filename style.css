@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #00008B ;
+    padding: 10px;
+}
+
+h1 {
+    border: 3px solid #00008B;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+footer p {
+    background-color: #00008B;
+}
+
+.images {
+    border: 1px solid lightgreen;
+    background-color: lightgreen;
+}
+
+.discount {
+    padding: 20px;
+    color: blue;
+}
+
+.delivery {
+    padding: 20px;
+    color: blue;
+}
+
+.wholesale {
+    padding: 20px;
+    color: blue;
+    font-size: 20px;
+}
+
+.about_us {
+    padding: 20px;
+    color: blue;
+}
+.contacts{
+    border: 3px solid darkblue;
+    padding: 10px;
+    text-decoration: none;
+}
